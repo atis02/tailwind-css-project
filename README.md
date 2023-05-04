@@ -1,2 +1,2 @@
-# tailwind-css-project
-My tailwind css project
+# tailwind-npm-config
+Ready tailwind config template
